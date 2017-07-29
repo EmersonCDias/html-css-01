@@ -1,0 +1,39 @@
+body{
+	font-family: sans-serif;
+}
+
+#container{
+	width: 940px;
+	margin: 0 auto;
+}
+
+#cabecalho{
+	text-align: center;
+}
+
+h2{
+	background-color: #5599DD;
+	color: #DDDDDD;
+	padding: 5px;
+}
+
+.identacao{
+	text-indent: 50px;
+}
+
+#email{
+	text-decoration: underline;
+	font-style: italic;
+}
+
+#cidade{
+	text-decoration: overline;
+}
+
+#tel{
+	text-decoration: line-through;
+}
+
+#nomeCandidato{
+	text-decoration: blink;
+}
